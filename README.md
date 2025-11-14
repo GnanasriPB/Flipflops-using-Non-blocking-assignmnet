@@ -199,5 +199,3 @@ endmodule
 ### RESULT
 All flip-flops (SR, D, JK, T) were successfully simulated using Non blocking statements in Verilog HDL. The outputs matched the expected truth table values, demonstrating correct sequential behavior.
 
-All flip-flops (SR, D, JK, T) were successfully simulated using Non blocking statements in Verilog HDL.
-The outputs matched the expected truth table values, demonstrating correct sequential behavior.
